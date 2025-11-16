@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-export default function ContactoBW() {
+export default function Contacto() {
   return (
     <section className="py-20 px-6 bg-white" id="contacto">
       <motion.div
