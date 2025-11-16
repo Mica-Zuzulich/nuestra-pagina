@@ -26,7 +26,7 @@ export default function ContactoBW() {
           />
           <textarea
             placeholder="Tu mensaje"
-            rows="5"
+            rows={5}
             className="px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-black"
           />
           <motion.button
